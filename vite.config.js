@@ -39,7 +39,7 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/shaban-shaikh-portfolio/", // ✅ repo name ONLY
+  base: "/",   // ✅ IMPORTANT FIX
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "src"),
