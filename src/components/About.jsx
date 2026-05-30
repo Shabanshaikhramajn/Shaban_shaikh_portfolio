@@ -150,10 +150,10 @@ const About = () => {
   ];
 
   return (
-    <section
-      id="about"
-      className="py-16 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-900/50"
-    >
+   <section
+  id="about"
+  className="pt-4 pb-16 lg:pt-8 lg:pb-24 px-4 sm:px-6 lg:px-8 bg-slate-900/50"
+>
       <div className="container mx-auto max-w-6xl">
         
         {/* Section Header */}

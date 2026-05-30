@@ -127,7 +127,7 @@ const experiences = [
     role: "Flutter Developer",
     company: "Calyx Solutions UK Ltd",
     location: "Rajarampuri, Kolhapur",
-    duration: "June 2025 – Present (10 Months)",
+    duration: "June 2025 – Present (1 Year)",
     responsibilities: [
       "Developed international payments mobile applications with high-level security and Firebase push notifications.",
       "Integrated multiple payment gateways including Payceller, AccessMS, Volume and TrustPayments.",
@@ -140,7 +140,7 @@ const experiences = [
     role: "Flutter Developer",
     company: "Quantum Infotech Private Ltd",
     location: "Kadamwadi, Kolhapur",
-    duration: "June 2023 - June 2025 (2 Years)",
+    duration: "March 2023 - June 2025 (2 Year 3 Months)",
     responsibilities: [
       "Built and maintained multiple cross-platform mobile apps with clean and scalable architecture.",
       "Implemented Provider, Bloc and GetX for state management across complex applications.",
@@ -155,7 +155,7 @@ const Experience = () => {
   return (
     <section
       id="experience"
-      className="py-16 lg:py-24 px-4 sm:px-6 lg:px-8 bg-slate-900/50"
+      className="py-4 lg:py-16 px-4 sm:px-6 lg:px-8 bg-slate-900/50"
     >
       <div className="container mx-auto max-w-6xl">
         {/* Section Header */}
@@ -164,7 +164,7 @@ const Experience = () => {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
-          className="text-center mb-12 lg:mb-16"
+          className="text-center mb-12 lg:mb-8"
         >
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4">
             <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">

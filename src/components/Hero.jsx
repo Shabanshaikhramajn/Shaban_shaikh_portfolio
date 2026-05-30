@@ -537,14 +537,18 @@ const Hero = () => {
           <div className="w-20 h-[2px] bg-orange-400 mb-6 mx-auto lg:mx-0" />
 
           <p className="text-gray-700 dark:text-slate-300 max-w-md mb-4 leading-relaxed mx-auto lg:mx-0">
-            I specialize in building high-performance, visually appealing mobile
-            and web applications using <b>Flutter</b>.
-          </p>
+  I specialize in building high-performance, scalable, and visually engaging 
+  mobile & web applications using <b>Flutter</b>, with expertise in modern 
+  state management solutions like <b>BLoC</b>, <b>Provider</b>, and <b>Riverpod</b>.
+</p>
 
-          <p className="text-gray-700 dark:text-slate-300 max-w-md mb-6 leading-relaxed mx-auto lg:mx-0">
-            Passionate about clean architecture, smooth UI animations,
-            responsive layouts and seamless user experiences.
-          </p>
+<p className="text-gray-700 dark:text-slate-300 max-w-md mb-6 leading-relaxed mx-auto lg:mx-0">
+  Experienced in developing fintech and business applications with clean 
+  architecture, smooth UI animations, responsive layouts, REST API integration, 
+  and seamless user experiences. Successfully deployed and maintained 
+  <b>15+ production-ready applications</b> across the Google Play Store and 
+  Apple App Store.
+</p>
 
           {/* BUTTONS */}
           <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4 mt-6">
